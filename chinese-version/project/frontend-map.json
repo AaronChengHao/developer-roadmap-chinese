@@ -4597,12 +4597,12 @@
         {
           "ID": "256",
           "measuredH": "22",
-          "measuredW": "14",
+          "measuredW": "15",
           "properties": {
             "bold": "true",
             "color": "16777215",
             "size": "14",
-            "text": "17"
+            "text": "19"
           },
           "typeID": "Label",
           "w": "16",
@@ -5455,12 +5455,12 @@
         {
           "ID": "306",
           "measuredH": "22",
-          "measuredW": "15",
+          "measuredW": "17",
           "properties": {
             "bold": "true",
             "color": "16777215",
             "size": "14",
-            "text": "18"
+            "text": "20"
           },
           "typeID": "Label",
           "w": "16",
